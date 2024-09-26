@@ -4,6 +4,9 @@
 **Entre e confira:** [Dicas para o Git](https://site-dicas-git.netlify.app/)
 
 
+![Previo](img/dicasgit.gif) 
+
+
 ## Home![pagina1](img/home.png)
 ## Tutorial![pagina2](img/tutorial.png)
 ##  Tutorial-Perguntas Frequentes![pagina2](img/turorial2.png)
